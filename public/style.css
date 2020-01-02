@@ -1,7 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 *{
     text-align: center;
-    font-family: sans-serif;
-    color: darkblue;
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+    background-color:black;
+}
+
+h1 {
+  font-family: 'Lato', sans-serif;
 }
 
 .row {
