@@ -24,7 +24,7 @@ This project is an Amazon Web Services (AWS) server that displays a collection o
         <$ curl -o- 
         https://raw.githubusercontent.com/creationix/nvm/v0.32.1/install.sh | bash>
 
-    Run the ~bachrc file by typing in the terminal:
+    Run the ~bashrc file by typing in the terminal:
         < $ source ~/.bashrc >
 
     Install node by running 
