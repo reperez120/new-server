@@ -1,6 +1,10 @@
                            Photo Collection AWS Server
 
-This project is an Amazon Web Services (AWS) server that displays a collection of photographs. Below are the instructions for setting up the project.
+This project is an Amazon Web Services (AWS) server that displays a collection of photographs.
+
+Here is the url for the project: http://ec2-18-221-195-24.us-east-2.compute.amazonaws.com/
+
+Below are the instructions for setting up the project.
 
 1. Setting Up the server through AWS
 
