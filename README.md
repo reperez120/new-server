@@ -35,7 +35,7 @@ This project is an Amazon Web Services (AWS) server that displays a collection o
         < $ mkdir server  && cd $_ >
 
     then start npm by running:
-        < $cnpm init >
+        < $npm init >
 
     Install express by running:
         < $ npm install express --save-dev >
