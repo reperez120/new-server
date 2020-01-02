@@ -22,6 +22,7 @@ h1 {
     flex: 33%;
     max-width: 30%;
     padding: 0 4px;
+    cursor: pointer;
   }
   
   .column img {
