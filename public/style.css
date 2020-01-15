@@ -52,8 +52,8 @@ h1 {
   @media screen and (max-width: 600px) {
     .column img:hover {
       position:relative;
-      top:-25px;
-      left:-35px;
+      /* top:-25px;
+      left:-35px; */
       width:500px;
       height:auto;
       display:block;
