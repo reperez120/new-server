@@ -32,9 +32,9 @@ h1 {
   }
   
   .column img:hover {
-    position:relative;
+    /* position:relative; */
     top:-25px;
-    left:-5px;
+    left:-35px;
     width:800px;
     height:auto;
     display:block;
