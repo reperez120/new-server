@@ -32,7 +32,7 @@ h1 {
   }
   
   .column img:hover {
-    transform: scale(2);
+    transform: scale(3);
   }
   
   @media screen and (max-width: 600px) {
@@ -41,18 +41,3 @@ h1 {
       max-width: 100%;
     }
   }
-
-  /* @media screen and (max-width: 600px) {
-    .column img:hover {
-      position:relative;
-      top: 50%;
-      margin-top:-25%;
-      right: 5px; */
-      /* top:-25px;
-      left:-35px; */
-      /* width:500px;
-      height:auto;
-      display:block;
-      z-index:999;
-    }
-  } */
