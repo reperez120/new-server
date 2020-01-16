@@ -10,7 +10,7 @@
 }
 
 h1 {
-  padding-top: 2rem;
+  padding-top: 3rem;
   font-family: 'Lato', sans-serif;
   padding-bottom: 1rem;
 }
@@ -28,7 +28,8 @@ h2, h3 {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding-left: 2rem;
+  padding-left: 3rem;
+  padding-bottom: 3rem;
   /* padding: 0 4px; */
 }
   
