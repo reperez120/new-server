@@ -30,27 +30,25 @@ h2, h3 {
   flex-wrap: wrap;
   padding-left: 3rem;
   padding-bottom: 3rem;
-  /* padding: 0 4px; */
 }
   
 .column {
   flex: 33%;
   max-width: 30%;
-  padding: 0 4px;
+  padding: 0 1rem;
   cursor: pointer;
 }
   
 .column img {
-  margin-top: 8px;
+  margin-top: 2rem;
   vertical-align: middle;
   width: 100%;
 }
   
 .column img:hover {
   transform: scale(2);
-  margin-left: 3rem; 
-  margin-right: 3rem;
-  /* padding: 2rem; */
+  margin-left: 4rem; 
+  margin-right: 4rem;
 }
   
 @media screen and (max-width: 600px) {
