@@ -35,7 +35,7 @@ h2, h3 {
 .column {
   flex: 33%;
   max-width: 30%;
-  padding: 0 1rem;
+  padding: 0 .5rem;
   cursor: pointer;
 }
   
@@ -47,8 +47,8 @@ h2, h3 {
   
 .column img:hover {
   transform: scale(2);
-  margin-left: 4rem; 
-  margin-right: 4rem;
+  margin-left: 5rem; 
+  margin-right: 5rem;
 }
   
 @media screen and (max-width: 600px) {
