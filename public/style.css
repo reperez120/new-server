@@ -2,8 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 *{
-  padding-top: 2rem;
-  padding-bottom: 2rem;
   text-align: center;
   font-family: 'Roboto', sans-serif;
   line-height: 1.6;
@@ -12,6 +10,7 @@
 }
 
 h1 {
+  padding-top: 2rem;
   font-family: 'Lato', sans-serif;
   padding-bottom: 1rem;
 }
@@ -29,7 +28,8 @@ h2, h3 {
 .row {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 4px;
+  padding-left: 2rem;
+  /* padding: 0 4px; */
 }
   
 .column {
