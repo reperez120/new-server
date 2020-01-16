@@ -6,6 +6,7 @@
   font-family: 'Roboto', sans-serif;
   color: grey;
   background-color:black;
+  margin-right: 1rem;
 }
 
 h1 {
@@ -19,8 +20,8 @@ h1 {
 }
   
 .column {
-  flex: 50%;
-  max-width: 50%;
+  flex: 33%;
+  max-width: 30%;
   padding: 0 4px;
   cursor: pointer;
 }
