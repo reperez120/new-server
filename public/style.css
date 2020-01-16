@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 *{
-  /* text-align: center; */
+  text-align: center;
   font-family: 'Roboto', sans-serif;
   color: grey;
   background-color:black;
@@ -27,6 +27,8 @@ h1 {
   
 .column img {
   margin-top: 8px;
+  margin-left: 1rem;
+  margin-right: 1rem;
   vertical-align: middle;
   width: 100%;
 }
